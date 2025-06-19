@@ -64,7 +64,7 @@ I'm a passionate **Web Developer** with over **17 years of experience** developi
 - Key projects: Business Licensing & Permit System, City Management System, GIS, Traffic Monitoring System
 
 ### 🌐 Gizmospring & Poplife Global
-**Web Developer** *(2016 - Present)*
+**Web Developer** *(2016 - 2022)*
 - Creating custom CMS and inventory systems
 - Managing multiple Shopify stores
 - Daily content updates and graphic design
