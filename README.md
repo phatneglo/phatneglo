@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Web Developer** with over **17 years of experience** developing web sites, web applications, and content management solutions. I specialize in building scalable, robust applications with a focus on clean code and optimal performance.
+I'm a passionate **Web Developer** with over **20 years of experience** developing web sites, web applications, and content management solutions. I specialize in building scalable, robust applications with a focus on clean code and optimal performance.
 
 - 🔭 Currently working at **ITBS Corporation** as Backend Programmer & Database Designer
 - 💼 Also contributing to **Gizmospring & Poplife Global** as a Web Developer
@@ -50,7 +50,7 @@ I'm a passionate **Web Developer** with over **17 years of experience** developi
     <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="App Development" />
       <br><strong>App Development</strong>
-      <br>Experienced • 3 years
+      <br>Experienced • 7 years
     </td>
   </tr>
 </table>
