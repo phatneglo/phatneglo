@@ -41,7 +41,7 @@ Building software since 2002. I design complete systems—from databases and API
 
 ### Experience
 
-**Technical Consultant & Mentor** · AITBS · 2026–Present  
+**Technical Consultant** · AITBS · 2026–Present  
 **Senior Full-Stack Programmer & Lead Developer** · ITBS Corporation · 2015–2026
 
 ### GitHub Activity
